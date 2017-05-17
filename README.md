@@ -1,2 +1,2 @@
 # gitp
-Repo to practice git, yahmsgr forked from msgryah.
+yahmsgr forked - Repo to practice git
