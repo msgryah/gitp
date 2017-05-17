@@ -1,2 +1,2 @@
 # gitp
-Repo to practice git
+Original Owner msgryah initiated - Repo to practice git
