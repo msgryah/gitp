@@ -1,2 +1,4 @@
 # gitp
-. Original Owner msgryah initiated - Repo to practice git
+REPO to practice github
+. Original Owner "msgryah" initiated
+. Contributor "yahmsgr" forked
